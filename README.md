@@ -30,9 +30,9 @@ Hi, nice to meet you! :smile:.
 ![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![thiiagoms's github stats](https://github-readme-stats.vercel.app/api?username=thiiagoms&theme=dracula)
+![thiiagoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiiagoms&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagoms&hide=vimscript&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagoms&layout=compact&theme=tokyonight)
 
 # Feel free to contact me :)
 
