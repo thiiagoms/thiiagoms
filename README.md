@@ -29,12 +29,12 @@ Hi, nice to meet you! :smile:.
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-![thiiagoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiiagoms&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagoms&layout=compact&theme=tokyonight)
-
-# Feel free to contact me :)
+<div>
+  <a href="https://github.com/thiiagoms">
+    <img align="left" height="160px" width="47%" src="https://github-readme-stats.vercel.app/api?username=thiiagoms&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/></a> 
+     <a href="https://github.com/thiiagoms">
+    <img align="right" height="160px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagoms&layout=compact&langs_count=7&theme=graywhite"/></a> 
+</div> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoo-martins)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagom.devsec@gmail.com)
