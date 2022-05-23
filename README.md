@@ -2,7 +2,7 @@
 
 Hi, nice to meet you! :smile:.
 
-:wedding: I'm currently working as Backend Developer Junior.<br>
+:wedding: I'm currently working as Backend Developer.<br>
 :elephant:/:snake: I can help with:
 <ul>
     <li>PHP (Laravel and Lumen)</li>
