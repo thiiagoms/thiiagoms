@@ -6,13 +6,22 @@ Hi, nice to meet you!! :smile:
 :handshake: I can help with:
 
 ```php
-$php = ['Laravel', 'Lumen', 'CodeIgniter (3/4)', 'Doctrine'];
+<?php
+
+$stack = array_map(
+        fn ($framework): string => "I can help with => {$framework}",
+        ['Laravel', 'Lumen', 'CodeIgniter (3/4)', 'Doctrine']
+);
+foreach ($stack as $phpStack) echo $phpStack . PHP_EOL;
 ```
 ```python
-python = ['Django', 'Flask', 'Selenium']
+print('I can help with')
+print(*['Django', 'Flask', 'Selenium'], sep=', ')
 ```
 ```javascript
-let javaScript = ['JQuery', 'VueJs', 'NodeJs', 'Express'];
+['JQuery', 'VueJs', 'NodeJs', 'Express'].forEach(
+    (frame) => console.log(`I can help with ${frame}`)
+);
 ```
 
 Reache me:
