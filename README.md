@@ -9,9 +9,10 @@ Hi, nice to meet you!! :smile:
 <?php
 
 $stack = array_map(
-    fn (string $framework): string => "I can help with => {$framework}",
+    fn (string $framework): string => "I can help with: {$framework}",
     ['Laravel', 'Lumen', 'CodeIgniter (3/4)', 'Doctrine', 'Slim Framework']
 );
+
 foreach ($stack as $phpStack) echo $phpStack . PHP_EOL;
 ```
 ```python
