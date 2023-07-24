@@ -2,7 +2,7 @@
 
 Hi, nice to meet you!! :smile:
 
-:briefcase: I'm currently working as Full Stack Developer.<br>
+:briefcase: I'm currently searching for new oportunities as Full Stack Developer or Backend Developer.<br>
 :handshake: I can help with:
 
 ```php
