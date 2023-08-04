@@ -2,40 +2,72 @@
 
 Hi, nice to meet you!! :smile:
 
-:briefcase: I'm currently searching for new oportunities as Full Stack Developer or Backend Developer.<br>
+:briefcase: I'm currently working as Backend Developer.<br>
 :handshake: I can help with:
 
-```php
-<?php
-
-$stack = array_map(
-    fn (string $framework): string => "I can help with: {$framework}",
-    ['Laravel', 'Lumen', 'CodeIgniter (3/4)', 'Doctrine', 'Slim Framework']
-);
-
-foreach ($stack as $phpStack) echo $phpStack . PHP_EOL;
+```json
+{
+  "skills": {
+    "hard": {
+      "backend": [
+        "PHP",
+        "Python",
+        "Shell Script",
+        "Java"
+      ],
+      "frontend": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "CodeIgniter",
+        "Laravel",
+        "Lumen",
+        "Swoole",
+        "Symfony",
+        "Zend Framework",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "JQuery",
+        "Node.js",
+        "Vue.js"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "AWS"
+      ]
+    },
+    "databases": {
+      "sql": [
+        "MariaDB",
+        "Microsoft SQL Server",
+        "MySQL",
+        "PostgreSQL",
+        "SQLite"
+      ],
+      "nosql": [
+        "MongoDB",
+        "Redis",
+        "Cassandra"
+      ]
+    },
+    "concepts": [
+      "OOP",
+      "TDD",
+      "BDD",
+      "Clean Code",
+      "Micro Services"
+    ]
+  }
+}
 ```
-```python
-print('I can help with')
-print(*['Django', 'Flask', 'Selenium'], sep=', ')
-```
-```javascript
-['JQuery', 'VueJs', 'NodeJs', 'Express'].forEach(
-    (frame) => console.log(`I can help with ${frame}`)
-);
-```
-
-<div class="center">
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagoms&hide=html,Blade,CSS&layout=compact&theme=merko" /></td>
-        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=thiiagoms&theme=merko"/></td>
-    </tr>
-  </table>
-</div>
-
 Reache me:
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thiiagoms)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thiiagoms@proton.me)
+[![ProtonMail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiiagoms/)
