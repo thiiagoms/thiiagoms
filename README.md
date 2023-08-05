@@ -13,7 +13,7 @@
       "frontend": [
         "HTML",
         "CSS",
-        "JavaScript"
+        "JavaScript and Typescript"
       ],
       "frameworks": [
         "CodeIgniter",
@@ -25,9 +25,14 @@
         "Django",
         "Flask",
         "FastAPI",
+        "Bootstrap",
+        "Tailwind CSS",
         "JQuery",
+        "Angular JS"
+        "Vue.js",
         "Node.js",
-        "Vue.js"
+        "Express",
+        "Nest.js"
       ],
       "devops": [
         "Docker",
