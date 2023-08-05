@@ -27,8 +27,8 @@
         "FastAPI",
         "Bootstrap",
         "Tailwind CSS",
+        "Angular JS",
         "JQuery",
-        "Angular JS"
         "Vue.js",
         "Node.js",
         "Express",
@@ -39,32 +39,41 @@
         "Kubernetes",
         "Git",
         "AWS"
-      ]
-    },
-    "databases": {
-      "sql": [
-        "MariaDB",
-        "Microsoft SQL Server",
-        "MySQL",
-        "PostgreSQL",
-        "SQLite"
       ],
-      "nosql": [
-        "MongoDB",
-        "Redis",
-        "Cassandra"
+      "databases": {
+        "sql": [
+          "MariaDB",
+          "Microsoft SQL Server",
+          "MySQL",
+          "PostgreSQL",
+          "SQLite"
+        ],
+        "nosql": [
+          "MongoDB",
+          "Redis",
+          "Cassandra"
+        ]
+      },
+      "concepts": [
+        "OOP",
+        "TDD",
+        "BDD",
+        "Clean Code",
+        "Micro Services"
       ]
     },
-    "concepts": [
-      "OOP",
-      "TDD",
-      "BDD",
-      "Clean Code",
-      "Micro Services"
+    "soft": [
+      "Communication skills",
+      "Empathy",
+      "Emotional Intelligence",
+      "Team Work",
+      "Self-Awareness",
+      "Self-learning"
     ]
   }
 }
 ```
+
 Reache me:
 <br>
 
