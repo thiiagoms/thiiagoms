@@ -1,78 +1,13 @@
 ## thiiagoms@freedom $: echo 'Hello friend ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)'
 
-```json
-{
-  "skills": {
-    "hard": {
-      "backend": [
-        "PHP",
-        "Python",
-        "Shell Script",
-        "Java"
-      ],
-      "frontend": [
-        "HTML",
-        "CSS",
-        "JavaScript and Typescript"
-      ],
-      "frameworks": [
-        "CodeIgniter",
-        "Laravel",
-        "Lumen",
-        "Swoole",
-        "Symfony",
-        "Zend Framework",
-        "Django",
-        "Flask",
-        "FastAPI",
-        "Bootstrap",
-        "Tailwind CSS",
-        "Angular JS",
-        "JQuery",
-        "Vue.js",
-        "Node.js",
-        "Express",
-        "Nest.js"
-      ],
-      "devops": [
-        "Docker",
-        "Kubernetes",
-        "Git",
-        "AWS"
-      ],
-      "databases": {
-        "sql": [
-          "MariaDB",
-          "Microsoft SQL Server",
-          "MySQL",
-          "PostgreSQL",
-          "SQLite"
-        ],
-        "nosql": [
-          "MongoDB",
-          "Redis",
-          "Cassandra"
-        ]
-      },
-      "concepts": [
-        "OOP",
-        "TDD",
-        "BDD",
-        "Clean Code",
-        "Micro Services"
-      ]
-    },
-    "soft": [
-      "Communication skills",
-      "Empathy",
-      "Emotional Intelligence",
-      "Team Work",
-      "Self-Awareness",
-      "Self-learning"
-    ]
-  }
-}
-```
+Main stack
+
+[![Skills](https://skillicons.dev/icons?i=git,linux,bash,php,laravel,py,django,vuejs,nodejs,mysql,redis,mongodb,docker,aws)](https://skillicons.dev)
+
+
+Experience with other techs
+
+[![Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,atom,postman,nginxregex,html,css,js,ts,bootstrap,tailwind,jquery,react,symfony,flask,selenium,express,sequelize,postgres,cassandra,heroku,gcp,azure)]()
 
 Reache me:
 <br>
