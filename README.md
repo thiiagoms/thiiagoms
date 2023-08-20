@@ -7,7 +7,7 @@ Main stack
 
 Experience with other techs
 
-[![Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,atom,postman,nginxregex,html,css,js,ts,bootstrap,tailwind,jquery,react,symfony,flask,selenium,express,sequelize,postgres,cassandra,heroku,gcp,azure)]()
+[![Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,atom,postman,nginx,regex,html,css,js,ts,bootstrap,tailwind,jquery,react,symfony,flask,selenium,express,sequelize,postgres,cassandra,heroku,gcp,azure)]()
 
 Reache me:
 <br>
