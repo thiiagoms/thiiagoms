@@ -9,7 +9,7 @@ Experience with other techs
 
 [![Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,atom,postman,nginx,regex,html,css,js,ts,bootstrap,tailwind,jquery,react,symfony,flask,selenium,express,sequelize,postgres,cassandra,heroku,gcp,azure)]()
 
-Reache me:
+Reach me:
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thiiagoms)
