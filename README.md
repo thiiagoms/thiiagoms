@@ -4,14 +4,6 @@ Main stack
 
 [![Skills](https://skillicons.dev/icons?i=git,linux,bash,php,laravel,py,django,vuejs,nodejs,mysql,redis,mongodb,docker,aws)](https://skillicons.dev)
 
-Experience with other techs
-
-[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,html,css,js,ts,bootstrap,tailwind,jquery,react,symfony,flask,selenium,express,sequelize,postgres,cassandra,azure)]()
-
-Learning
-
-[![Skills](https://skillicons.dev/icons?i=go,ruby,rust,nestjs,terraform)]()
-
 Reach me:
 <br>
 
